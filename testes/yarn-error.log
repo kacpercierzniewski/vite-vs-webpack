@@ -1,0 +1,30 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Program Files (x86)\Yarn\bin\yarn.js add --exact react react-dom react-scripts cra-template --cwd C:\Projects\vite-vs-webpack\testes
+
+PATH: 
+  C:\Users\kcier\AppData\Local\Temp\yarn--1650306458010-0.2511930488751868;C:\Users\kcier\AppData\Local\Yarn\Data\global\node_modules\.bin;C:\Users\kcier\AppData\Local\Yarn\Data\link\node_modules\.bin;C:\Program Files\libexec\lib\node_modules\npm\bin\node-gyp-bin;C:\Program Files\lib\node_modules\npm\bin\node-gyp-bin;C:\Program Files\nodejs\node_modules\npm\bin\node-gyp-bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\kcier\bin;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Oculus\Support\oculus-runtime;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\OpenSSH;C:\ProgramData\chocolatey\bin;C:\Program Files\Microsoft VS Code\bin;C:\Program Files\nodejs;C:\Program Files\Git\cmd;C:\Program Files (x86)\Yarn\bin;C:\ProgramData\nvm;C:\Program Files\nodejs;C:\Program Files\dotnet;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\OpenSSH;C:\Program Files\Intel\WiFi\bin;C:\Program Files\Common Files\Intel\WirelessCommon;C:\program files (x86)\iracing\d3dgear;C:\Users\kcier\AppData\Local\Programs\Python\Python38\Scripts;C:\Users\kcier\AppData\Local\Programs\Python\Python38;C:\Users\kcier\AppData\Local\Microsoft\WindowsApps;C:\Users\kcier\AppData\Roaming\npm;C:\Users\kcier\AppData\Local\Yarn\bin;C:\Users\kcier\AppData\Local\gitkraken\bin;C:\Users\kcier\AppData\Local\Microsoft\WindowsApps;C:\Users\kcier\.dotnet\tools;C:\Users\kcier\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\Intel\WiFi\bin;C:\Program Files\Common Files\Intel\WirelessCommon
+
+Yarn version: 
+  1.22.5
+
+Node version: 
+  14.17.0
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: 3940:error:1408F119:SSL routines:ssl3_get_record:decryption failed or bad record mac:c:\ws\deps\openssl\openssl\ssl\record\ssl3_record.c:677:
+
+npm manifest: 
+  {
+    "name": "testes",
+    "version": "0.1.0",
+    "private": true
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile

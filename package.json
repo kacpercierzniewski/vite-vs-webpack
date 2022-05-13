@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@inlet/react-pixi": "^6.7.0",
+    "gojs": "^2.2.9",
+    "gojs-react": "^1.1.1",
+    "pixi.js": "^6.3.2"
+  }
+}
