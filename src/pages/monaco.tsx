@@ -1,10 +1,11 @@
-import Editor, { DiffEditor, useMonaco, loader } from "@monaco-editor/react";
+import Editor from "@monaco-editor/react";
 
 
 const Monaco = () => {
     return (
         <Editor
-          height="90vh"
+          width={'100%'}
+          height="20vh"
           defaultLanguage="javascript"
           defaultValue="// some comment"
         />

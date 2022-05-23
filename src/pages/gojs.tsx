@@ -1,5 +1,4 @@
 
-// @ts-nocheck
 import * as go from 'gojs';
 import { ReactDiagram } from 'gojs-react';
 
@@ -46,7 +45,7 @@ import { ReactDiagram } from 'gojs-react';
   // render function...
   const  GoJS = () => {
     return (
-      <div style={{width: '500px', height: '500px'}}>
+      <div >
         <ReactDiagram
           initDiagram={initDiagram}
           divClassName='diagram-component'
